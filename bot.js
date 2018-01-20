@@ -6,10 +6,10 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'convite') {
+    	message.reply('https://discord.gg/b3ZVTpj');
   	}
 });
 
-// THIS  MUST  BE  THIS  WAY
+// THIS  MUST  BE  THIS  WAY'
 client.login(process.env.BOT_TOKEN);
