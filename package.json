@@ -1,0 +1,11 @@
+{
+  "name": "U-R-S-O",
+  "version": "1.0.0",
+  "description": "Um fudido por ai",
+  "main": "bot.js",
+  "author": "ClockFM",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
